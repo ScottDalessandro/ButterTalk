@@ -1,2 +1,2 @@
-Butter Talk Presentation for Fullstack Students
+Butter Talk Presentation
 
